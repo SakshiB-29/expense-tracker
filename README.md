@@ -68,7 +68,7 @@ Key Objectives:
 
 ```bash
 # Clone the repository
-git clone https://github.com/aayantasneem/expense-tracker.git
+git clone https://github.com/sakshibhingardive/expense-tracker.git
 
 # Navigate to the project directory
 cd expense-tracker-python
@@ -119,8 +119,8 @@ python expense_tracker.py
 
 ## ✨ Author
 
-Developed with ❤️ by [M. Aayan Tasneem](https://github.com/aayantasneem)
-> **LinkedIn**: [https://www.linkedin.com/in/muhammadaayantasneem](https://www.linkedin.com/in/muhammadaayantasneem)
+Developed with ❤️ by [Sakshi Bhingardive](https://github.com/SakshiB-29)
+> **LinkedIn**: [https://www.linkedin.com/in/sakshib26/](https://www.linkedin.com/in/sakshib26/)
 
 ---
 
